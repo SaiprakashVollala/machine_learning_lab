@@ -1,3 +1,3 @@
-Saiprakash Vollala
-B200770
-C2
+Name:Saiprakash Vollala,
+Id No:B200770
+class:C2
